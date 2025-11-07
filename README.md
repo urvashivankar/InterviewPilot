@@ -26,16 +26,6 @@ An AI-powered mock interview system that asks role-specific technical questions,
 
 ---
 
-## 📸 Screenshots
-
-| Start Screen | Interview Mode |
-|--------------|----------------|
-|![UI]("C:\Users\Urvashi\OneDrive\Desktop\Interview_Page.jpg")|![Chat]("C:\Users\Urvashi\OneDrive\Desktop\code.jpg")|
-
-> _(You can update screenshots later. Create folder `/screenshots` and add images.)_
-
----
-
 ## 🧠 How it works
 
 1. User enters a job role (e.g., "Machine Learning Engineer")
